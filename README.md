@@ -4,6 +4,7 @@ Evolution of Semiott Society into a Sign System for Post Pandemic Political Econ
 ## Prelude
 - Semiott is a Sign System for the Secure and Scalable Streaming of Economic Assets in the form of Protocols, Products and Platforms. 
 - Semiott has been operating as a Decentralised Signature System for Financial Markets and Economic Architectures ever since 2020. 
+- Semiott envisions a new physics for the world of finance powered by the space - time conjectures of radical markets and rational economies.
 
 ## Concepts
 - Financial Systems are constructed with real, surreal and unreal assets. 
